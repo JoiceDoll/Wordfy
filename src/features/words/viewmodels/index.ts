@@ -1,0 +1,1 @@
+export { useWordListViewModel } from './useWordListViewModel';

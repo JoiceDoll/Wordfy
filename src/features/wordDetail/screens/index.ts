@@ -1,0 +1,1 @@
+export { WordDetailScreen } from './WordDetailScreen';
